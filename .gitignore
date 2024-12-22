@@ -1,0 +1,9 @@
+﻿FrameWork/Library
+FrameWork/Logs
+FrameWork/Packages
+FrameWork/ProjectSettings
+FrameWork/Temp
+FrameWork/UserSettings
+*.csproj
+*.vsconfig
+*.sln
