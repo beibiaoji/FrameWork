@@ -4,9 +4,4 @@
 	"displayName": "game framework",
 	"description": "This is an example package",
 	"unity": "2021.3",
-	"author": {
-		"name": "Beibiaoji",
-		"email": "1493719248@qq.com",
-		"url": "https://space.bilibili.com/301951836"
-	}
 }
