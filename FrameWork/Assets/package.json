@@ -1,13 +1,11 @@
 {
-  "name": "com.beibiaoji.framework",
-  "displayName": "FrameWork",
-  "version": "1.0.0",
-  "unity": "2021.3.24",
-  "description": "Beibiaoji Game FrameWork",
-  "license": "MIT",
-  "dependencies": {}
-  "author":{
-	  "name": "Beibiaoji"
+ "name": "com.beibiaoji.framework",
+  "version": "0.0.1",
+  "displayName": "game framework",
+  "description": "This is an example package",
+  "unity": "2021.3"	
+   "author": {
+    "name": "Beibiaoji",
+    "email": "https://space.bilibili.com/301951836",
   }
-	  
 }
